@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.cache/
+tmp/
+.DS_Store
+PROMPTY.md
+# working tooling and the recruiter's own brief stay out of the repo
+.claude/
+*.pdf
+data/raw/otodom-offers-preview.html
+*.tsbuildinfo
+next-env.d.ts
