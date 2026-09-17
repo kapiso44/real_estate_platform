@@ -1,3 +1,4 @@
+import ChatSearch from "@/components/ChatSearch";
 import FilterBar from "@/components/FilterBar";
 import OfferCard from "@/components/OfferCard";
 import Pagination from "@/components/Pagination";
@@ -46,7 +47,10 @@ export default async function Home({
         </p>
       </header>
 
-      <FilterBar meta={meta} filters={filters} />
+      <div className="grid gap-4">
+        <ChatSearch />
+        <FilterBar meta={meta} filters={filters} />
+      </div>
 
       {invalidQuery && (
         <p className="mt-4 rounded border border-amber-300 bg-amber-50 px-4 py-3 text-sm text-amber-900">
