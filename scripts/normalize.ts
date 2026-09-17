@@ -77,6 +77,34 @@ const FLOOR_LABELS: Record<string, string> = {
   CELLAR: "cellar",
 };
 
+/**
+ * Otodom's raw amenity slugs and the AI vocabulary describe the same things under different
+ * names: "lift" and "elevator" appear together on 20 offers, "garage" and "parking" on 29,
+ * and a storage room arrives as "storage", "basement" or "usable_room". Filtering on the raw
+ * slugs would show the user two checkboxes that mean one thing, so everything is folded into
+ * one canonical vocabulary here - the database, the API, the UI and the chat all speak it.
+ *
+ * Raw slugs stay untouched in offers_raw, so this map can change without re-scraping.
+ * Slugs left out on purpose (too niche to filter on): tv, roller_shutters, media types.
+ */
+const FEATURE_CANONICAL: Record<string, string> = {
+  lift: "elevator", elevator: "elevator",
+  garage: "parking", parking: "parking",
+  storage: "storage", basement: "storage", usable_room: "storage",
+  entryphone: "security", anti_burglary_door: "security", monitoring: "security",
+  alarm: "security", closed_area: "security",
+  stove: "appliances", oven: "appliances", fridge: "appliances",
+  dishwasher: "appliances", washing_machine: "appliances",
+  furniture: "furnished",
+  balcony: "balcony", terrace: "terrace", garden: "garden",
+  air_conditioning: "air_conditioning", separate_kitchen: "separate_kitchen",
+  ready_to_move_in: "ready_to_move_in", developer_standard: "developer_standard",
+  needs_renovation: "needs_renovation",
+};
+
+const toCanonicalFeatures = (slugs: string[]): string[] =>
+  [...new Set(slugs.map((slug) => FEATURE_CANONICAL[slug.toLowerCase()]).filter(Boolean))].sort();
+
 const RANGES = {
   area: [10, 500],
   price: [50_000, 50_000_000],
@@ -192,9 +220,11 @@ function normalizeOne(raw: RawOffer): Normalized {
   // A rent of 0 means "not stated", not "free".
   const rent = raw.rent != null && raw.rent > 0 ? num(raw.rent, RANGES.rent, "rent") : null;
 
-  const features = [...new Set([...(raw.extrasTypes ?? []), ...(raw.equipmentTypes ?? []), ...(raw.securityTypes ?? [])])]
-    .map((feature) => feature.toLowerCase())
-    .sort();
+  const features = toCanonicalFeatures([
+    ...(raw.extrasTypes ?? []),
+    ...(raw.equipmentTypes ?? []),
+    ...(raw.securityTypes ?? []),
+  ]);
 
   return {
     raw,
@@ -354,7 +384,7 @@ function applyEnrichment(items: Normalized[], enrichment: Record<string, AiEntry
     }
     if (entry.features?.length) {
       const structural = row.features as string[];
-      const added = entry.features.map((f) => f.feature).filter((f) => !structural.includes(f));
+      const added = toCanonicalFeatures(entry.features.map((f) => f.feature)).filter((f) => !structural.includes(f));
       if (added.length) {
         row.features = [...structural, ...added].sort();
         (row.fieldSources as Record<string, unknown>).features = {
