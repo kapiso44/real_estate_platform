@@ -1,0 +1,278 @@
+{
+  "batch": 10,
+  "prompt_version": 1,
+  "results": [
+    {
+      "id": 68419419,
+      "summary": "A 54 m2 three-room flat on the ground floor of a 4-storey building at ul. Kaczyńskiego 36 in Gdańsk Przymorze. The flat is dual-aspect, unfurnished, requires a full renovation, and a cellar belonging to it is included in the price. The building dates from 1969, has no lift and is secured with an intercom; parking spaces for residents are located next to it.",
+      "features": [
+        {
+          "feature": "needs_renovation",
+          "quote": "wymaga generalnego remontu"
+        },
+        {
+          "feature": "storage",
+          "quote": "Do lokalu przynależy piwnica (w cenie)."
+        },
+        {
+          "feature": "parking",
+          "quote": "Miejsca parkingowe, dostępne wyłącznie dla mieszkańców (posiadaczy identyfikatorów), znajdują się przy budynku."
+        }
+      ],
+      "price_notes": [
+        {
+          "type": "extra_cost",
+          "amount_pln": 750,
+          "quote": "Czynsz administracyjny dla spółdzielni wynosi około 750 zł miesięcznie (plus opłaty za media według zużycia)."
+        },
+        {
+          "type": "extra_cost",
+          "quote": "Umowa przedwstępna w formie aktu notarialnego (koszt taksy notarialnej pokrywa kupujący)."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419439,
+      "summary": "A three-room flat with a garden sold directly by the developer in a new residential development in Gdańsk, offered without commission. A garage hall and a storage unit are available, and the estate has garages, lifts, monitoring, green areas and gardens, and energy-efficient solutions. The location is about 10 minutes from the centre (5 km), close to forest, shops, schools and kindergartens, and within walking distance of the planned Pomorska Kolej Metropolitalna station.",
+      "features": [
+        {
+          "feature": "parking",
+          "quote": "Dostępna: Hala Garażowa i Komórka Lokatorska"
+        },
+        {
+          "feature": "storage",
+          "quote": "Dostępna: Hala Garażowa i Komórka Lokatorska"
+        },
+        {
+          "feature": "elevator",
+          "quote": "Garaże, windy, monitoring"
+        },
+        {
+          "feature": "garden",
+          "quote": "Zielone tereny i ogródki"
+        }
+      ],
+      "price_notes": [
+        {
+          "type": "other",
+          "quote": "Bez prowizji • 0% PCC"
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419441,
+      "summary": "A two-room flat with a garden sold directly by the developer in a new residential development in Gdańsk, offered without commission. A garage hall and a storage unit are available, and the estate has garages, lifts, monitoring, green areas and gardens, and energy-efficient solutions. The location is about 10 minutes from the centre (5 km), close to forest, shops, schools and kindergartens, and within walking distance of the planned Pomorska Kolej Metropolitalna station.",
+      "features": [
+        {
+          "feature": "parking",
+          "quote": "Dostępna: Hala Garażowa i Komórka Lokatorska"
+        },
+        {
+          "feature": "storage",
+          "quote": "Dostępna: Hala Garażowa i Komórka Lokatorska"
+        },
+        {
+          "feature": "elevator",
+          "quote": "Garaże, windy, monitoring"
+        },
+        {
+          "feature": "garden",
+          "quote": "Zielone tereny i ogródki"
+        }
+      ],
+      "price_notes": [
+        {
+          "type": "other",
+          "quote": "Bez prowizji • 0% PCC"
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419442,
+      "summary": "A four-room flat sold directly by the developer in a new residential development in Gdańsk, offered without commission. A garage hall and a storage unit are available, and the estate has garages, lifts, monitoring, green areas and energy-efficient solutions. The location is about 10 minutes from the centre (5 km), close to forest, shops, schools and kindergartens, and within walking distance of the planned Pomorska Kolej Metropolitalna station.",
+      "features": [
+        {
+          "feature": "parking",
+          "quote": "Dostępna: Hala Garażowa i Komórka Lokatorska"
+        },
+        {
+          "feature": "storage",
+          "quote": "Dostępna: Hala Garażowa i Komórka Lokatorska"
+        },
+        {
+          "feature": "elevator",
+          "quote": "Garaże, windy, monitoring"
+        }
+      ],
+      "price_notes": [
+        {
+          "type": "other",
+          "quote": "Bez prowizji • 0% PCC"
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419538,
+      "summary": "A two-room flat of 55,1 m² in the Chmielna Park development by INPRO, on Wyspa Spichrzów in the centre of Gdańsk, a few minutes' walk from the Old Town and next to the Motława. The layout includes a living room with kitchenette, a bedroom, a bathroom, a hall and a balcony, and the flat is ready to move into without further outlay. The building has a lift, and a parking space in the garage hall is an obligatory purchase for 100 000 zł.",
+      "features": [
+        {
+          "feature": "balcony",
+          "quote": "balkon - 4,4 m²"
+        },
+        {
+          "feature": "elevator",
+          "quote": "budynek z windą"
+        },
+        {
+          "feature": "parking",
+          "quote": "miejsce postojowe w hali garażowej (zakup obligatoryjny 100 000 zł)"
+        },
+        {
+          "feature": "ready_to_move_in",
+          "quote": "Mieszkanie gotowe do wprowadzenia - bez dodatkowych nakładów"
+        }
+      ],
+      "price_notes": [
+        {
+          "type": "mandatory_parking",
+          "amount_pln": 100000,
+          "quote": "miejsce postojowe w hali garażowej (zakup obligatoryjny 100 000 zł)"
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419541,
+      "summary": "A bright 62,5 m² flat offered with a parking space in the garage hall and a storage unit. It has an open living area combining the living room, dining area and a fitted kitchen, large glazing opening onto a balcony, a bedroom, a bathroom finished in natural stone and natural wooden flooring. The flat is ready to move into without a full renovation; the parking space in the garage hall costs an additional 80000 zł.",
+      "features": [
+        {
+          "feature": "balcony",
+          "quote": "- balkon"
+        },
+        {
+          "feature": "parking",
+          "quote": "miejsce postojowe w hali garażowej dodatkowo płatne 80000 zł"
+        },
+        {
+          "feature": "storage",
+          "quote": "- komórka lokatorska"
+        },
+        {
+          "feature": "ready_to_move_in",
+          "quote": "mieszkanie gotowe do zamieszkania"
+        }
+      ],
+      "price_notes": [
+        {
+          "type": "extra_cost",
+          "amount_pln": 80000,
+          "quote": "miejsce postojowe w hali garażowej dodatkowo płatne 80000 zł"
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419559,
+      "summary": "A two-room investment apartment of 32,39 m2 in the Stoczniova development in the Młode Miasto district of Gdańsk, consisting of a living room with kitchenette, a bedroom, a bathroom and a hall. Two storage units are offered at 21 880 PLN. The quoted price is a gross price, with 23% VAT to be deducted additionally.",
+      "features": [
+        {
+          "feature": "storage",
+          "quote": "Dwie komórki lokatorskie 21 880 PLN"
+        }
+      ],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "CENA BRUTTO"
+        },
+        {
+          "type": "vat_note",
+          "quote": "DODATKOWO ODLICZ 23% VAT-u"
+        },
+        {
+          "type": "extra_cost",
+          "amount_pln": 21880,
+          "quote": "Dwie komórki lokatorskie 21 880 PLN"
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419560,
+      "summary": "A one-room investment apartment of 25,23 m2 in the Stoczniova development in the Młode Miasto district of Gdańsk, consisting of a living room with kitchenette, a bathroom and a hall. Storage units are offered at 11 960 PLN. The quoted price is a gross price, with 23% VAT to be deducted additionally.",
+      "features": [
+        {
+          "feature": "storage",
+          "quote": "komórki lokatorskie 11 960 PLN"
+        }
+      ],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "CENA BRUTTO"
+        },
+        {
+          "type": "vat_note",
+          "quote": "DODATKOWO ODLICZ 23% VAT-u"
+        },
+        {
+          "type": "extra_cost",
+          "amount_pln": 11960,
+          "quote": "komórki lokatorskie 11 960 PLN"
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419585,
+      "summary": "A two-room flat of 45 m² on ul. Piastowska in Gdańsk Przymorze, listed at 555 000 zł. It comprises two independent rooms, a kitchen, a bathroom with WC and a hall, and is held as separate ownership on floor 4/4, with district heating and a building secured by an intercom. Park Reagana and the beach are within a short walk, and public transport gives access to Olivia Centre, Alchemia and the Tricity universities.",
+      "features": [],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419629,
+      "summary": "A fully finished studio flat of 27 m² on the ground floor of the building at ul. Kartuska 420 in Gdańsk Jasień, comprising a living room with kitchenette, a bathroom and a hall. It is ready to be lived in without renovation and comes with a small garden and a parking space in the garage hall. The purchase of the parking space is obligatory at 35 000 zł.",
+      "features": [
+        {
+          "feature": "ready_to_move_in",
+          "quote": "Mieszkanie zostało wykończone i jest gotowe do zamieszkania."
+        },
+        {
+          "feature": "parking",
+          "quote": "z miejscem parkingowym w hali garażowej"
+        },
+        {
+          "feature": "garden",
+          "quote": "położony na parterze z małym ogródkiem"
+        }
+      ],
+      "price_notes": [
+        {
+          "type": "mandatory_parking",
+          "amount_pln": 35000,
+          "quote": "Do mieszkania przynależy miejsce postojowe w cenie 35 000 zł."
+        },
+        {
+          "type": "mandatory_parking",
+          "quote": "Zakup miejsca postojowego jest obligatoryjny."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    }
+  ]
+}

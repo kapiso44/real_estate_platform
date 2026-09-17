@@ -1,0 +1,152 @@
+{
+  "batch": 6,
+  "prompt_version": 1,
+  "results": [
+    {
+      "id": 68417633,
+      "summary": "An apartment in developer standard in a modern complex in Gdańsk's Śródmieście, presented as an investment property for short- and long-term rental. The layout consists of a living room with a kitchenette and a bathroom. Above-ground and underground parking spaces are available at the complex, and a parking space can be bought.",
+      "features": [
+        { "feature": "developer_standard", "quote": "apartament w stanie deweloperskim" },
+        { "feature": "parking", "quote": "miejsca postojowe naziemne i podziemne" }
+      ],
+      "price_notes": [
+        { "type": "extra_cost", "quote": "możliwość zakupu miejsca postojowego" }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68417634,
+      "summary": "An apartment of 142,73 m2 on the 4th floor of a new development in Gdańsk's Młode Miasto, near the Motława. It has a living room with a kitchenette, four bedrooms, three bathrooms, a wardrobe, a winter garden and a large terrace. The building offers common areas finished to a high standard, monitoring and access control, an underground garage, storage units and commercial premises.",
+      "features": [
+        { "feature": "terrace", "quote": "ogród zimowy oraz duży taras" },
+        { "feature": "parking", "quote": "podziemna hala garażowa" },
+        { "feature": "storage", "quote": "komórki lokatorskie" }
+      ],
+      "price_notes": [
+        { "type": "extra_cost", "quote": "możliwość zakupu miejsca postojowego" }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68417635,
+      "summary": "An apartment in developer standard in a modern complex in Gdańsk's Śródmieście, offered as an investment property for short- and long-term rental. It comprises a living room with a kitchenette and a bathroom. The complex has monitoring and security, common areas finished to a high standard, and above-ground and underground parking spaces.",
+      "features": [
+        { "feature": "developer_standard", "quote": "apartament w stanie deweloperskim" },
+        { "feature": "parking", "quote": "miejsca postojowe naziemne i podziemne" }
+      ],
+      "price_notes": [
+        { "type": "extra_cost", "quote": "możliwość zakupu miejsca postojowego" }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68417637,
+      "summary": "An apartment of 33,52 m2 in the Młode Miasto district of Gdańsk, by the Motława and a few minutes' walk from the historic centre. It has a living room with a kitchenette, a hall, a bathroom and a balcony of 5,06 m2. The development includes monitoring and access control, an underground garage, storage units and commercial premises.",
+      "features": [
+        { "feature": "balcony", "quote": "balkon o powierzchni 5,06 m2" },
+        { "feature": "parking", "quote": "podziemna hala garażowa" },
+        { "feature": "storage", "quote": "komórki lokatorskie" }
+      ],
+      "price_notes": [
+        { "type": "extra_cost", "quote": "możliwość zakupu miejsca postojowego" }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68417638,
+      "summary": "An apartment of 45,05 m2 in the Młode Miasto district of Gdańsk, by the Motława and a few minutes' walk from the historic centre. It comprises a living room with a kitchenette, a bedroom, a bathroom, a hall and a balcony of 6,68 m2. The development offers monitoring and access control, an underground garage, storage units and commercial premises.",
+      "features": [
+        { "feature": "balcony", "quote": "balkon o powierzchni 6,68 m2" },
+        { "feature": "parking", "quote": "podziemna hala garażowa" },
+        { "feature": "storage", "quote": "komórki lokatorskie" }
+      ],
+      "price_notes": [
+        { "type": "extra_cost", "quote": "możliwość zakupu miejsca postojowego" }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68417640,
+      "summary": "A move-in ready two-room apartment of 37,14 m² on the ground floor of a tenement house on Waryńskiego Street in Gdańsk's Dolny Wrzeszcz. It has a living room, a bedroom, a kitchen, a bathroom and a hallway, and underwent a comprehensive renovation about 10 years ago including replacement of all installations. The property is gated and fenced with resident-only parking in the courtyard, and a basement belongs to the flat; built-in wardrobes and furniture are included in the price, excluding the sofas.",
+      "features": [
+        { "feature": "ready_to_move_in", "quote": "gotowe do zamieszkania" },
+        { "feature": "parking", "quote": "miejsca parkingowe przeznaczone wyłącznie dla mieszkańców" },
+        { "feature": "storage", "quote": "Do mieszkania przynależy również piwnica." }
+      ],
+      "price_notes": [
+        { "type": "other", "amount_pln": 520000, "quote": "Cena: 520 000 PLN (cena łączna, obejmuje również piwnicę)" },
+        { "type": "extra_cost", "amount_pln": 360, "quote": "Opłaty administracyjne: ok. 360 PLN + prąd i gaz według zużycia." }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68417657,
+      "summary": "An apartment on the top storey of a small estate on a green hill in Gdańsk, with 99,19 m2 of living space and a 54,81 m2 mezzanine and a view of the Old Town. It is offered in developer standard and includes a balcony of 11,84 m2, a sheltered terrace of 17,14 m2 and a storage unit in the price. The estate has a residents' club and fitness room, playground, green roofs and photovoltaic panels, a gated and monitored area, a lift and an underground garage.",
+      "features": [
+        { "feature": "developer_standard", "quote": "Lokal oferowany jest w stanie deweloperskim" },
+        { "feature": "balcony", "quote": "balkon o powierzchni 11,84 m2" },
+        { "feature": "terrace", "quote": "osłonięty taras 17,14 m2" },
+        { "feature": "storage", "quote": "W cenie znajduje się komórka lokatorska." },
+        { "feature": "elevator", "quote": "nowoczesna winda" },
+        { "feature": "parking", "quote": "podziemna hala garażowa" }
+      ],
+      "price_notes": [
+        { "type": "extra_cost", "quote": "Dodatkowo istnieje możliwość zakupu miejsca postojowego w podziemnej hali garażowej." }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68417750,
+      "summary": "A two-room investment apartment in Gdańsk Aniołki, handed over finished, furnished and equipped and ready for collection. Units of 1 to 3 rooms with areas from 36,68 to 63,14 m² are available in the same building, which holds 65 apartments, commercial premises, a garage hall and a reception. The sale is subject to 23% VAT, and parking spaces and storage units can be bought additionally.",
+      "features": [
+        { "feature": "ready_to_move_in", "quote": "wykończone, umeblowane i wyposażone" },
+        { "feature": "parking", "quote": "miejsce postojowe w hali garażowej" },
+        { "feature": "storage", "quote": "komórkę lokatorską" }
+      ],
+      "price_notes": [
+        { "type": "vat_note", "quote": "23% VAT - istotne przy zakupie inwestycyjnym" },
+        { "type": "extra_cost", "quote": "miejsca postojowe i komórki lokatorskie dostępne dodatkowo" }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68417851,
+      "summary": "A two-room apartment of 38,00 m2 in Gdańsk's Przymorze district, on the 1st floor of a 10-storey block built in 1975. It comprises a living room with access to a balcony, a bedroom, a kitchen, a bathroom, a hallway and a vestibule, and requires a full renovation; a basement belongs to the flat. The building has an intercom, a renovated and monitored staircase and a lift, with district heating and hot water.",
+      "features": [
+        { "feature": "balcony", "quote": "z wyjściem na balkon" },
+        { "feature": "needs_renovation", "quote": "Mieszkanie do kapitalnego remontu." },
+        { "feature": "elevator", "quote": "Na poszczególne kondygnacje dostaniemy się też dzięki windzie." },
+        { "feature": "storage", "quote": "Do mieszkania przynależy ponadto piwnica" }
+      ],
+      "price_notes": [
+        { "type": "extra_cost", "amount_pln": 788, "quote": "Opłaty administracyjne: 788 zł/miesiąc" }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68417903,
+      "summary": "An apartment of 128,3 m² on the Marina Primore estate in Gdańsk Przymorze, with a terrace and a sea view from every room. It has a spacious living room, a separate kitchen, 3 bedrooms, 2 bathrooms with underfloor heating and a wardrobe in the hallway, and is fully furnished and equipped. The building has 2 lifts, monitoring and a round-the-clock porter's lodge; 2 places in the garage hall are offered for 150 000 zł and a storage unit of 3,1 m² is included in the price.",
+      "features": [
+        { "feature": "terrace", "quote": "taras z widokiem na morze" },
+        { "feature": "ready_to_move_in", "quote": "Wysoki standard wykończenia i pełne wyposażenie." },
+        { "feature": "elevator", "quote": "Nowoczesny apartamentowiec z 2 windami" },
+        { "feature": "parking", "quote": "2 miejsca w hali garażowej" },
+        { "feature": "storage", "quote": "Komórka lokatorska (3,1 m²) w cenie" }
+      ],
+      "price_notes": [
+        { "type": "extra_cost", "amount_pln": 150000, "quote": "2 miejsca w hali garażowej (150 000 zł)" }
+      ],
+      "floor": null,
+      "year_built": null
+    }
+  ]
+}

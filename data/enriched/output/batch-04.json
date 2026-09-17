@@ -1,0 +1,185 @@
+{
+  "batch": 4,
+  "prompt_version": 1,
+  "results": [
+    {
+      "id": 68416918,
+      "summary": "A two-room flat in Gdansk offered directly by the developer, presented as suitable both for living in and for renting out. The listing highlights the location near Politechnika Gdanska and Gdanski Uniwersytet Medyczny, quick access to the SKM commuter rail and a smart home system. 23% VAT has to be added to the purchase price and can be recovered when the property is bought for rental.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "Do zakupu należy doliczyć 23% VAT."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416919,
+      "summary": "A three-room apartment in a new development in Gdansk, described as having a well thought-out layout and functional space. It is sold directly by the developer, without commission and without PCC tax, and 23% VAT has to be added to the purchase price. The listing stresses the location near the universities, the SKM commuter rail and 4 km to the sea, and mentions the option of a turnkey fit-out.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "Do zakupu należy doliczyć 23% VAT."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416920,
+      "summary": "A studio apartment in a new development in Gdansk, sold directly by the developer without commission and without PCC tax. The description mentions a functional layout, a smart home system and the option of a turnkey fit-out carried out to the buyer's own preferences. 23% VAT has to be added to the purchase price and can be recovered when the property is bought for rental.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "Do zakupu należy doliczyć 23% VAT."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416921,
+      "summary": "A spacious four-room flat with a balcony and a garage hall, sold directly by the developer without commission and without PCC tax. The listing gives 7 km to the centre, 10 minutes by car, 15 minutes by bus and 5 min to the ring road, with shops, public transport, restaurants and a LIDL nearby. Flats in the development range from 33.80 to 81.38 m2 and come with gardens or balconies, and a turnkey fit-out is possible.",
+      "features": [
+        {
+          "feature": "balcony",
+          "quote": "Przestronne 4 pokoje | Balkon | Hala Garażowa"
+        },
+        {
+          "feature": "parking",
+          "quote": "Przestronne 4 pokoje | Balkon | Hala Garażowa"
+        }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68417173,
+      "summary": "An investment unit in the DOKI development on ul. Popieluszki in Gdansk, built by Euro Styl (Grupa Dom Development), where 1 or 2-room flats from 23 m2 to 57 m2 are offered. The presented 30 mkw unit costs 589 962,80 zl net or 725 654,24 zl gross with fit-out, and comes with a 5 letnia umowa najmu with the operator Platinum Residence and a 7% guaranteed rent for 5 years indexed annually to the GUS index. Payments are spread into instalments until July 2028 and the opening of the residence is planned for January 2029.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "Lokale oferowane są jako jednostki pobytowe z 23% stawką VAT, co umożliwia odliczenie podatku."
+        },
+        {
+          "type": "vat_note",
+          "amount_pln": 725654.24,
+          "quote": "725 654,24 zł brutto"
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68417216,
+      "summary": "New flats on the primary market in Gdansk - Orunia Gorna, with 1 to 4 rooms and sizes from 31 to 67 m2. The unit offered here has 50m2 and consists of a living room with a kitchenette, 2 bedrooms, a dressing room and a bathroom. The estate lies next to Park Ferberow and the Kanal Raduni and includes an exercise zone, a space for dog owners, bicycle racks, an electric car charging station, LED lighting in the common areas, an optional Smart Home system and an anti-smog package.",
+      "features": [],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68417230,
+      "summary": "A well-kept studio flat on the ground floor of the Lawendowe Wzgorze estate in Gdansk, with a large private garden and a layout that allows a separate bedroom to be created. The flat is 4 years old, in very good technical condition, requires no further spending and is ready to be lived in or rented out immediately; its rental history and income are documented. An above-ground parking space is available at an additional 30 000 zl.",
+      "features": [
+        {
+          "feature": "garden",
+          "quote": "duży prywatny ogródek"
+        },
+        {
+          "feature": "ready_to_move_in",
+          "quote": "Jest gotowy do zamieszkania lub dalszego wynajmu od zaraz."
+        },
+        {
+          "feature": "parking",
+          "quote": "naziemne miejsce postojowe dodatkowo płatne 30 000 zł."
+        }
+      ],
+      "price_notes": [
+        {
+          "type": "mandatory_parking",
+          "amount_pln": 30000,
+          "quote": "naziemne miejsce postojowe dodatkowo płatne 30 000 zł."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68417239,
+      "summary": "A two-room flat of 42,4m2 in Gdansk Zaspa, located on the 1st floor of a building with a lift, an intercom and insulation, with numerous parking spaces in front of the entrance. It consists of a living room opening onto a large sunny south-west facing balcony, a large kitchen with a window, a bedroom, a bathroom, a separate WC and a hall, and a cellar of 1,6 m2 belongs to the flat. District heating and hot water, PCV windows, parquet floors and a charge of 600zl all year round; the flat is described as ready to move in.",
+      "features": [
+        {
+          "feature": "balcony",
+          "quote": "duży, słoneczny balkon"
+        },
+        {
+          "feature": "elevator",
+          "quote": "Mieszkanie znajduje się na 1 piętrze w budynku z windą."
+        },
+        {
+          "feature": "parking",
+          "quote": "z licznymi miejscami postojowymi przed wejściem"
+        },
+        {
+          "feature": "storage",
+          "quote": "Dodatkowo do mieszkania przynależy piwnica - 1,6 m2"
+        },
+        {
+          "feature": "ready_to_move_in",
+          "quote": "mieszkanie gotowe do wprowadzenia."
+        }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68417268,
+      "summary": "An investment unit in the DOKI development on ul. Popieluszki in Gdansk, built by Euro Styl (Grupa Dom Development), where 1 or 2-room flats from 23 m2 to 57 m2 are offered. The presented unit of 23,14 mkw costs 457 794,85 zl net or 563 087,67 zl gross with fit-out and is covered by a 5-year lease with the operator Platinum Residence with a 7% guaranteed rent indexed annually to the GUS index. Payments run in instalments until July 2028, the residence is planned to open in January 2029, and the sample unit is stated to generate 32 192 zl net of annual income.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "Lokale oferowane są jako jednostki pobytowe z 23% stawką VAT, co umożliwia odliczenie podatku."
+        },
+        {
+          "type": "vat_note",
+          "amount_pln": 563087.67,
+          "quote": "563 087,67 zł brutto"
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68417419,
+      "summary": "A two-room apartment of 48,2 m2 on the 1st floor of a five-storey building in the centre of Gdansk, on a gated and monitored estate next to the Marina yacht port, ready to move in. It consists of a living room with a kitchenette, a spacious hall, a dressing room, a bedroom and a bathroom with a shower cabin and a washing machine. A space in the garage hall under the building belongs to the flat at an additional 100 tys. zl and has its own land register, and the monthly charge is about 700 zl.",
+      "features": [
+        {
+          "feature": "parking",
+          "quote": "miejsce postojowe w garażu podziemnym"
+        },
+        {
+          "feature": "ready_to_move_in",
+          "quote": "Dwupokojowy apartament o powierzchni 48,2 m² zlokalizowany na 1 piętrze gotowy do zamieszkania."
+        }
+      ],
+      "price_notes": [
+        {
+          "type": "mandatory_parking",
+          "amount_pln": 100000,
+          "quote": "Do mieszkania przynależy miejsce w hali garażowej pod budynkiem dodatkowo płatne 100 tys. zł."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "batch": 1,
+  "prompt_version": 1,
+  "results": [
+    {
+      "id": 68415918,
+      "summary": "Four-room flat in a new development in Gdansk, sold directly by the developer with no commission and no PCC tax, with handover this year according to the title. The description places the investment 7 km from the city centre, about 15 minutes by car and 20 minutes by bus, with shops, public transport, service points and restaurants nearby and a LIDL next to the investment. Turnkey finishing of the flat is offered as an option.",
+      "features": [],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68415919,
+      "summary": "Two-level four-room flat in a new development in Gdansk, listed in the title with a garden and parking. It is sold directly by the developer with no commission and no PCC tax. The description places the investment 7 km from the city centre, with shops, public transport, service points and restaurants nearby and a LIDL next to the investment.",
+      "features": [],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68415921,
+      "summary": "Two-level flat in a new development in Gdansk, sold directly by the developer with no commission and no PCC tax. The description places the investment 7 km from the city centre, about 15 minutes by car and 20 minutes by bus, with shops, public transport, service points and restaurants nearby. Turnkey finishing of the flat is offered as an option.",
+      "features": [],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68415923,
+      "summary": "Modern studio apartment in a new development in Gdansk, sold directly by the developer with no commission and no PCC tax. The description states that 23% VAT must be added to the purchase price and can be recovered if the property is bought for rental. The location is given as 2 km from Gdansk University of Technology and the Medical University of Gdansk, 2 minutes from the SKM commuter train and 4 km from the sea, and the development is described as having a smart home system.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "Do zakupu należy doliczyć 23% VAT. Możliwe do odzyskania w przypadku zakupu nieruchomości pod wynajem"
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68415924,
+      "summary": "Modern apartment in a new development in Gdansk, advertised in the title with a separate bedroom and close to the SKM commuter rail and the sea. It is sold directly by the developer with no commission and no PCC tax, and the description notes that 23% VAT must be added to the price, recoverable if the property is bought for rental. The stated location is 2 km from Gdansk University of Technology and the Medical University of Gdansk and 4 km from the sea.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "Do zakupu należy doliczyć 23% VAT. Możliwe do odzyskania w przypadku zakupu nieruchomości pod wynajem"
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68415984,
+      "summary": "Four-room corner flat of 88 m kw on the 6th floor of a 7-storey building in the Doki development, built by the developer EUROSTYL on the former shipyard grounds in Gdansk. It has a 55-metre private terrace with a view of the Motlawa, the shipyard and the cranes, a master bedroom with a walk-in wardrobe, aluminium windows and only one neighbour on the floor. Two parking spaces in the garage hall on level 0 cost 65.000 zl each and a storage unit of over 7 m kw opposite the flat costs a further 40.000 zl.",
+      "features": [
+        {
+          "feature": "terrace",
+          "quote": "55-metrowy prywatny taras!"
+        },
+        {
+          "feature": "storage",
+          "quote": "duża komórka lokatorska tuż obok mieszkania"
+        },
+        {
+          "feature": "parking",
+          "quote": "2 wygodne miejsca postojowe na poziomie 0- tuż obok wejścia"
+        }
+      ],
+      "price_notes": [
+        {
+          "type": "mandatory_parking",
+          "amount_pln": 65000,
+          "quote": "2 miejsca w hali garażowej (na poziomie 0) +65.000 zł/każde"
+        },
+        {
+          "type": "extra_cost",
+          "amount_pln": 40000,
+          "quote": "duża komórka lokatorska naprzeciwko mieszkania - ponad 7 m kw + 40.000 zł"
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416047,
+      "summary": "Apartment in the \"Klimatyczna\" development on Sobieszewska Island in Gdansk, described as ready for handover. The listing states that the apartments range from 31m2 to 55m2, that every flat has large balconies or terraces and pre-installation for air conditioning, and that the beach and fishing port are 900m away with 15 minutes to the centre of Gdansk. Parking spaces assigned to the flat cost 29 000 PLN net and the listing notes the possibility of deducting 23% VAT.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "możliwość odliczenia podatku VAT 23%"
+        },
+        {
+          "type": "mandatory_parking",
+          "amount_pln": 29000,
+          "quote": "miejsca postojowe przypisane do mieszkania cena: 29 000pln netto"
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416050,
+      "summary": "Two-room flat of 46,4 m2 in Gdansk at ul. Rzesnej, on the first floor of a four-storey building from 1982, which the listing says was renovated in March 2026. It consists of a 20 m2 room, a 12 m2 room, a kitchen, a bathroom and a hall, with PVC windows and municipal heating and water; the czynsz is about 740 zl per month. A storage unit belongs to the flat, there is a large free car park for residents, and the building is monitored with an intercom-secured entrance.",
+      "features": [
+        {
+          "feature": "parking",
+          "quote": "duży, bezpłatny parking dla mieszkańców"
+        },
+        {
+          "feature": "storage",
+          "quote": "do mieszkania przynależy komórka lokatorska"
+        }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416151,
+      "summary": "Two-room flat with a usable area of 37,91 m2 (41,16 m2 including the storage unit) in the Mila Baltica development by ROBYG in Gdansk Wrzeszcz, ready to move in, with fitted furniture and kitchen appliances included in the price. It is on the 2nd floor of a 3-storey block built in 2016, served by a lift, on a fenced and monitored property with an intercom, reception, and a fitness room, sauna and children's play room for residents. A parking space in the garage hall and a 3,25 m2 storage unit are an obligatory purchase for a combined 100 000 zl, giving a total price of 1.045.000 zl.",
+      "features": [
+        {
+          "feature": "balcony",
+          "quote": "z wyjściem na wygodny balkon (ok.5m2)"
+        },
+        {
+          "feature": "ready_to_move_in",
+          "quote": "Mieszkanie gotowe do wprowadzenia"
+        },
+        {
+          "feature": "storage",
+          "quote": "komórka lokatorska (3,25m2) usytuowana przy miejscu parkingowym w hali garażowej"
+        },
+        {
+          "feature": "parking",
+          "quote": "miejsce postojowe w hali garażowej"
+        },
+        {
+          "feature": "elevator",
+          "quote": "Na poszczególne kondygnacje dostaniemy się też dzięki windzie."
+        }
+      ],
+      "price_notes": [
+        {
+          "type": "mandatory_parking",
+          "amount_pln": 100000,
+          "quote": "zakup obligatoryjny łącznie 100 000 zł."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416297,
+      "summary": "Three-room flat with a usable area of 55,92 m2 at ul. Starowiejska 63 in the Letnica district of Gdansk, on the seventh floor of an eighteen-storey building handed over for use in 2021. It comprises a living room with a kitchenette (19,52 m2) opening onto a balcony, two further rooms, a bathroom with WC and a corridor, and is dual-aspect with a north/east exposure. Private parking spaces in the garage hall are included in the purchase price, the czynsz is about 800 zl per month and residents share a viewing point on the top floor and a green recreation area on the seventh floor.",
+      "features": [
+        {
+          "feature": "balcony",
+          "quote": "wyjściem na balkon (1,78 m2)"
+        },
+        {
+          "feature": "parking",
+          "quote": "prywatne miejsca postojowe w hali garażowej (platforma dla dwóch pojazdów osobowych) - w cenie zakupu lokalu"
+        }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    }
+  ]
+}
