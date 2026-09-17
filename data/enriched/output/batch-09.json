@@ -1,0 +1,149 @@
+{
+  "batch": 9,
+  "prompt_version": 1,
+  "results": [
+    {
+      "id": 68419294,
+      "summary": "A 40 m² apartment on ul. Chodkiewicza in Gdansk Brzezno, about 8 minutes' walk from the beach. It has been renovated and is ready to move into, with new, unused furniture, and the layout consists of two independent rooms, a walk-through room, a separate kitchen without a window and a bathroom. The flat has no balcony, cellar or assigned parking space, although free parking places are available in the neighbourhood.",
+      "features": [
+        {
+          "feature": "ready_to_move_in",
+          "quote": "Po remoncie, gotowe do wprowadzenia"
+        }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419325,
+      "summary": "A three-room apartment with a balcony in a low block from the 70s, held as a cooperative ownership title and situated on the first floor. The 52 m² layout comprises a living room, two smaller rooms, a separate kitchen with a window, a bathroom, a separate WC and a hall, with access from the largest room to a large loggia-type balcony, and a cellar belongs to the flat. Heating and hot water are supplied from the municipal GPEC network, the monthly charge is about 1000 zl, and the estate has generally accessible parking spaces.",
+      "features": [
+        {
+          "feature": "balcony",
+          "quote": "Z największego pokoju wyjście na duży balkon typu loggia."
+        },
+        {
+          "feature": "storage",
+          "quote": "Do lokalu przynależy piwnica."
+        },
+        {
+          "feature": "parking",
+          "quote": "Na osiedlu ogólnodostępne miejsca postojowe."
+        }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419351,
+      "summary": "A three-room apartment in the Mila Baltica estate on ul. Boleslawa Chrobrego in Gdansk, 1,5 km from the sea and the beach. The flat has a usable area of 68.30 m² and consists of a living room, two bedrooms, a bathroom, a utility/laundry room and a hall, with built-in wardrobes, a ceiling height of 2,70 m and a balcony of about 14 m² off the living room overlooking greenery. The estate offers a fitness zone, a relaxation room, a sauna, a lobby with a porter, a children's playroom and a smart apartment management system; an underground parking space and a storage unit are additionally payable and obligatory to purchase.",
+      "features": [
+        {
+          "feature": "balcony",
+          "quote": "Z salonu wyjście na spory balkon (ok. 14mkw)."
+        },
+        {
+          "feature": "parking",
+          "quote": "miejsce postojowe w podziemnej hali garażowej"
+        },
+        {
+          "feature": "storage",
+          "quote": "komórka lokatorska"
+        }
+      ],
+      "price_notes": [
+        {
+          "type": "mandatory_parking",
+          "quote": "Dodatkowym atutem jest miejsce postojowe w podziemnej hali garażowej oraz komórka lokatorska (dodatkowo płatne – zakup obligatoryjny)."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419405,
+      "summary": "A one-room apartment with a garden, offered in a raised developer standard and ready for handover. It has an area of 25,99 m² with a living room with kitchenette of 18,19 m², a bathroom of 3,82 m², a private garden, southern exposure and a ground-floor position. The purchase is without commission and without PCC tax, and the flat can optionally be finished turnkey.",
+      "features": [
+        {
+          "feature": "garden",
+          "quote": "prywatny ogródek"
+        },
+        {
+          "feature": "developer_standard",
+          "quote": "podwyższony standard deweloperski"
+        }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419406,
+      "summary": "An apartment in a new development in Gdansk sold directly by the developer, without commission and without PCC tax, with keys to be collected this year. The description quotes a price of 9800 zl per m² and a location 7 km from the centre, 15 minutes by car or 20 minutes by bus from the centre and 5 min from the ring road, with shops, public transport, service points, restaurants and a LIDL by the investment. The development offers apartments from 35.57 m² to 127.72 m², with gardens or balconies, and optional turnkey finishing.",
+      "features": [],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419407,
+      "summary": "A three-room apartment in a raised developer standard, ready for handover, with north-south exposure. Its area is 63,60 m² and includes a living room with kitchenette of 23,88 m², rooms of 12,80 m² and 11 m², a corridor of 9,30 m², a bathroom of 4,61 m², a separate WC of 2,01 m² and a balcony of 3,81. The walls are already painted, the purchase is without commission and without PCC tax, and turnkey finishing is available as an option.",
+      "features": [
+        {
+          "feature": "balcony",
+          "quote": "balkon 3,81"
+        },
+        {
+          "feature": "developer_standard",
+          "quote": "podwyższony standard deweloperski"
+        }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419408,
+      "summary": "A two-room apartment in a new development, offered directly by the developer, without commission and without PCC tax. The description quotes a price from 8900 zl per m² and a location 7 km from the centre, 15 minutes by car or 20 minutes by bus from the centre and 5 min from the ring road, with shops, public transport, service points, restaurants and a LIDL by the investment. The development offers apartments from 35.57 m² to 127.72 m², with gardens or balconies, and optional turnkey finishing.",
+      "features": [],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419409,
+      "summary": "A two-room apartment in a new development, offered directly by the developer, without commission and without PCC tax. The description quotes a price from 8900 zl per m² and a location 7 km from the centre, 15 minutes by car or 20 minutes by bus from the centre and 5 min from the ring road, with shops, public transport, service points, restaurants and a LIDL by the investment. The development offers apartments from 35.57 m² to 127.72 m², with gardens or balconies, and optional turnkey finishing.",
+      "features": [],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419410,
+      "summary": "A two-room apartment sold directly by a developer in Gdansk, without commission and without PCC tax. The description quotes a price of 9800 zl per m² and a location 7 km from the centre, 15 minutes by car or 20 minutes by bus from the centre and 5 min from the ring road, with shops, public transport, service points, restaurants and a LIDL by the investment. The development offers apartments from 35.57 m² to 127.72 m², with gardens or balconies, and optional turnkey finishing.",
+      "features": [],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419411,
+      "summary": "A four-room apartment in a raised developer standard, ready for handover, with north-south exposure. It has an area of 72,88 m² and comprises a living room with kitchenette of 26,40 m², rooms of 11,57 m², 10,25 m² and 7,58 m², a wardrobe of 1,52 m², a corridor of 8,68 m², a bathroom of 4,67 m², a separate WC of 2,21 m² and a balcony of 4,86. The walls are already painted, the purchase is without commission and without PCC tax, and turnkey finishing is available as an option.",
+      "features": [
+        {
+          "feature": "balcony",
+          "quote": "balkon 4,86"
+        },
+        {
+          "feature": "developer_standard",
+          "quote": "podwyższony standard deweloperski"
+        }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    }
+  ]
+}

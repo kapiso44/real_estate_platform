@@ -1,0 +1,131 @@
+{
+  "batch": 2,
+  "prompt_version": 1,
+  "results": [
+    {
+      "id": 68416387,
+      "summary": "A studio apartment in a new development in Gdansk, offered directly from the developer, without commission and without PCC tax. The listing describes a location 2 km from Gdansk University of Technology and the Medical University of Gdansk, 2 minutes to the SKM commuter railway and 4 km from the sea, and a smart home system. 23% VAT must be added to the purchase price, and optional turnkey finishing is offered.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "Do zakupu należy doliczyć 23% VAT."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416388,
+      "summary": "A two-room apartment in a new development in Gdansk, sold directly by the developer, without commission and without PCC tax. The location is described as 2 km from Gdansk University of Technology and the Medical University of Gdansk, 2 minutes from the SKM commuter railway and 4 km from the sea, with shops, public transport and services nearby. 23% VAT must be added to the purchase price, and the flat can optionally be finished turnkey.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "Do zakupu należy doliczyć 23% VAT."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416389,
+      "summary": "A studio apartment in a new development in Gdansk, available directly from the developer, without commission and without PCC tax. The description mentions a smart home system and a location 2 km from Gdansk University of Technology and the Medical University of Gdansk, 2 minutes from the SKM commuter railway and 4 km from the sea. 23% VAT must be added to the price, and turnkey finishing is available as an option.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "Do zakupu należy doliczyć 23% VAT."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416390,
+      "summary": "A two-room apartment in a new development in Gdansk, offered directly by the developer, without commission and without PCC tax. It is presented as suitable for students, working people and tourists, 2 km from Gdansk University of Technology and the Medical University of Gdansk, 2 minutes from the SKM commuter railway and 4 km from the sea. 23% VAT must be added to the purchase price, and optional turnkey finishing is offered.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "Do zakupu należy doliczyć 23% VAT."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416391,
+      "summary": "A two-room apartment in a new development in Gdansk, sold directly by the developer, without commission and without PCC tax. The listing points to the location near the universities and the centre of Wrzeszcz, 2 minutes from the SKM commuter railway and 4 km from the sea, and to a smart home system. 23% VAT must be added to the purchase price, and the flat can be finished turnkey on request.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "Do zakupu należy doliczyć 23% VAT."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416392,
+      "summary": "A two-room apartment in a new development in Gdansk, offered directly from the developer, without commission and without PCC tax. The description highlights a location 2 km from Gdansk University of Technology and the Medical University of Gdansk, 2 minutes from the SKM commuter railway and 4 km from the sea, with shops, public transport and service points in the area. 23% VAT must be added to the price, and turnkey finishing is available as an option.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "Do zakupu należy doliczyć 23% VAT."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416393,
+      "summary": "A two-room apartment in Gdansk presented as an investment property, suitable for living in or for renting out, and sold directly by the developer without commission and without PCC tax. The location is described as 2 km from Gdansk University of Technology and the Medical University of Gdansk, 2 minutes from the SKM commuter railway and 4 km from the sea. 23% VAT must be added to the purchase price.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "Do zakupu należy doliczyć 23% VAT."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416394,
+      "summary": "A two-room apartment in a new development in Gdansk, offered directly from the developer, without commission and without PCC tax. The listing describes a location 2 km from Gdansk University of Technology and the Medical University of Gdansk, 2 minutes from the SKM commuter railway and 4 km from the sea, and a smart home system. 23% VAT must be added to the price, and optional turnkey finishing is offered.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "Do zakupu należy doliczyć 23% VAT."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416395,
+      "summary": "A four-room apartment in a new development in Gdansk, sold directly by the developer without commission and without PCC tax. According to the description the location is 7 km from the centre, 15 minutes by car or 20 minutes by bus from the centre and 5 minutes from the ring road, with shops, public transport, service points and restaurants nearby. The development is said to include a fitness area for residents.",
+      "features": [],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416396,
+      "summary": "A two-room apartment in a new development in Gdansk, offered directly by the developer, without commission and without PCC tax. It is presented as suitable for students and for short- and long-term rental, 2 km from Gdansk University of Technology and the Medical University of Gdansk, 2 minutes from the SKM commuter railway and 4 km from the sea. 23% VAT must be added to the purchase price, and turnkey finishing is available as an option.",
+      "features": [],
+      "price_notes": [
+        {
+          "type": "vat_note",
+          "quote": "Do zakupu należy doliczyć 23% VAT."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    }
+  ]
+}

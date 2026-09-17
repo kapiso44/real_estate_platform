@@ -1,0 +1,138 @@
+{
+  "batch": 7,
+  "prompt_version": 1,
+  "results": [
+    {
+      "id": 68417920,
+      "summary": "A flat in Gdańsk offered in the Nowa Letnica investment, located on the 12th floor of a modern building, with an open panorama of the city visible from the windows and from the balcony. One of the rooms has been arranged as an office, and the interior has large glazing. A place in the garage hall is an obligatory additional purchase, and the offer is available from November.",
+      "features": [
+        { "feature": "balcony", "quote": "Dużym atutem jest również balkon" },
+        { "feature": "parking", "quote": "Miejsce w hali garażowej 60 tyś złotych zakup obligatoryjny" }
+      ],
+      "price_notes": [
+        { "type": "mandatory_parking", "amount_pln": 60000, "quote": "Miejsce w hali garażowej 60 tyś złotych zakup obligatoryjny" }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68417993,
+      "summary": "A furnished apartment of 31,72 m2 with two rooms, located on the top, fourth floor of a building in the Portovo development by Murapol at ul. Mostek in Gdańsk Śródmieście. It has air conditioning, a living room with a kitchenette, a separate bedroom, a bathroom with a walk-in shower and a hallway with a built-in wardrobe, and the building has a lift. The listed price is a net amount, the purchase is documented with an invoice and the VAT can be deducted.",
+      "features": [
+        { "feature": "air_conditioning", "quote": "Komfort użytkowania przez cały rok zapewnia zamontowana klimatyzacja" },
+        { "feature": "elevator", "quote": "Piętro: 4 z 4 (winda)" },
+        { "feature": "ready_to_move_in", "quote": "Wnętrza są w pełni umeblowane i wyposażone w niezbędny sprzęt AGD" }
+      ],
+      "price_notes": [
+        { "type": "vat_note", "quote": "Prezentowana cena jest kwotą netto." },
+        { "type": "vat_note", "amount_pln": 610000, "quote": "Cena: 610 000 zł netto (+23% VAT - do odliczenia)." }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68418122,
+      "summary": "A furnished apartment of 35,76 m² in the Baltic Porto development on Wyspa Sobieszewska in Gdańsk, finished and equipped so that it can be used at once, for the owner or for short-term rental. Residents have access to shared saunas, a reception, a lift and a private parking zone, and the flat has a balcony. An external parking space is listed at 30 000 zł.",
+      "features": [
+        { "feature": "balcony", "quote": "• balkon" },
+        { "feature": "elevator", "quote": "recepcja, winda oraz prywatna strefa parkingowa" },
+        { "feature": "parking", "quote": "prywatne, zewnętrzne miejsce postojowe" },
+        { "feature": "ready_to_move_in", "quote": "Wnętrze zostało wykończone i wyposażone w taki sposób, aby od razu można było z niego korzystać" }
+      ],
+      "price_notes": [
+        { "type": "extra_cost", "amount_pln": 30000, "quote": "Miejsce postojowe zewnętrzne w cenie 30 000 zł" }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68418174,
+      "summary": "A flat of 57,5 m² on the Młoda Morena estate at ul. Dolne Migowo in Gdańsk, in a building from 2016 put up by the developer Dekpol. It consists of a living room with a kitchenette, a bedroom, a room, a bathroom, a corridor and a balcony of about 5 m², has a western exposure and a view of the forest. A parking space in the garage hall and a storage unit of 6,6 m² belong to the flat and are payable in addition.",
+      "features": [
+        { "feature": "balcony", "quote": "balkon ok. 5 m²" },
+        { "feature": "parking", "quote": "miejsce postojowe w hali garażowej na poziomie -3 dodatkowo płatne 42 000 zł" },
+        { "feature": "storage", "quote": "komórka lokatorska o powierzchni 6,6 m² na osobnej księdze wieczystej dodatkowo płatna 18 000 zł" },
+        { "feature": "ready_to_move_in", "quote": "gotowy do zamieszkania" }
+      ],
+      "price_notes": [
+        { "type": "mandatory_parking", "amount_pln": 42000, "quote": "miejsce postojowe w hali garażowej na poziomie -3 dodatkowo płatne 42 000 zł" },
+        { "type": "extra_cost", "amount_pln": 18000, "quote": "komórka lokatorska o powierzchni 6,6 m² na osobnej księdze wieczystej dodatkowo płatna 18 000 zł" }
+      ],
+      "floor": null,
+      "year_built": { "value": 2016, "quote": "Lokal znajduje się w nowoczesnym budynku z 2016 roku wybudowanym przez dewelopera Dekpol." }
+    },
+    {
+      "id": 68418342,
+      "summary": "A fully furnished studio with a separated zone on the 2nd floor of the AURA40 development at ul. Rybaki Górne in Gdańsk, in a five-storey building from 2021 with a clinker facade. It comes with household appliances and a television, and the building has a quiet lift, an intercom, an alarm system and cable internet on a closed estate. A place in the underground garage belongs to the unit and the administrative rent is about 350 zł.",
+      "features": [
+        { "feature": "elevator", "quote": "Budynek wyposażony w cichobieżną windę" },
+        { "feature": "parking", "quote": "Do lokalu przynależy wygodne miejsce w garażu podziemnym." },
+        { "feature": "ready_to_move_in", "quote": "Mieszkanie w pełni umeblowane i gotowe do zamieszkania." }
+      ],
+      "price_notes": [
+        { "type": "other", "amount_pln": 730000, "quote": "Cena z garażem: 730 000 zł" }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68418374,
+      "summary": "A three-room flat of 51,39 m² on the 1st floor at ul. Kartuska 26 in Gdańsk, on the border of Siedlce and Śródmieście, in a building from 2014. It consists of a living room with a kitchenette, a bedroom, a room, a bathroom, a hallway and a balcony of 7,6 m², and is sold with the furnishings visible in the photographs, except the desk and the chair by the desk. The building has a lift and an intercom, and a parking space in the garage hall together with a storage unit of about 5 m² are payable in addition.",
+      "features": [
+        { "feature": "balcony", "quote": "Przestronny balkon - 7,6 m²" },
+        { "feature": "elevator", "quote": "jest wyposażony w windę oraz domofon" },
+        { "feature": "parking", "quote": "miejsce parkingowe w hali garażowej" },
+        { "feature": "storage", "quote": "komórka lokatorska o powierzchni około 5 m²" },
+        { "feature": "ready_to_move_in", "quote": "mieszkanie gotowe do zamieszkania" }
+      ],
+      "price_notes": [
+        { "type": "mandatory_parking", "amount_pln": 60000, "quote": "Miejsce parkingowe w hali garażowej + komórka lokatorska ok. 5 m²: 60 000 zł (dodatkowo płatne)" }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68418390,
+      "summary": "A flat of 66,5 m2 in a revitalised tenement house at ul. Trakt św. Wojciecha in Gdańsk Orunia, consisting of a living room, two bedrooms, a separate kitchen, a bathroom with WC and a corridor. The layout allows four independent rooms to be separated; the flat was thoroughly renovated about 5 years ago and needs refreshing, but can be occupied immediately. The building has only 2 floors and a large yard where parking is possible, and the monthly rent is about 630 zł.",
+      "features": [
+        { "feature": "parking", "quote": "Duże podwórko z możliwością parkowania" },
+        { "feature": "ready_to_move_in", "quote": "możliwe jest natychmiastowe zamieszkanie" }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68418477,
+      "summary": "A flat of 39,76 m² on the ground floor of the Solvo development at ul. Krynickiej 2 in Gdańsk, built in 2017, with a south-eastern exposure. A storage unit of 1,61 m² and a ground-level parking space on a closed car park are priced separately from the flat. The property is sold directly by the owner, without intermediaries.",
+      "features": [
+        { "feature": "storage", "quote": "komórka lokatorska: 1,61 m²" },
+        { "feature": "parking", "quote": "miejsce postojowe: naziemne, na zamkniętym parkingu" }
+      ],
+      "price_notes": [
+        { "type": "mandatory_parking", "amount_pln": 30000, "quote": "Miejsce postojowe: 30 000 zł" }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68418498,
+      "summary": "A two-room flat of 36m2 on the primary market, in a development in Łostowice in the southern part of Gdańsk. The surroundings include greenery and the areas along Potok Maćkowy, with a school, a nursery, shops and service premises nearby, and the estate itself has a playground and an activity zone. The buildings have photovoltaic installations on the roofs, LED lighting in the common areas, external monitoring and video intercoms, and anti-burglary doors are fitted in the flats.",
+      "features": [],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68418500,
+      "summary": "A flat of 27,60 m2 in Rzęsna, in the Rudniki district of Gdańsk, consisting of one room, a separate kitchen, a hallway and a bathroom, situated on the second floor. The interior is due for refreshing but the flat is fit to be lived in. The four-storey building is managed by the Spółdzielnia Mieszkaniowa „Długie Ogrody”, free parking spaces for residents are available in front of it, heating and water are municipal, and the administrative fees come to about 600 zł per month.",
+      "features": [
+        { "feature": "parking", "quote": "bezpłatne, ogólnodostępne miejsca parkingowe przed budynkiem dla mieszkańców" },
+        { "feature": "ready_to_move_in", "quote": "możliwość zamieszkania od razu" }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "batch": 8,
+  "prompt_version": 1,
+  "results": [
+    {
+      "id": 68418522,
+      "summary": "A 3-room flat of 58,5 m2 on Wyspa Spichrzów at ul. Jaglana in Gdańsk, fully finished and furnished. It consists of a living room with a kitchenette opening onto the garden, a bathroom with a walk-in shower, a hall and 2 bedrooms. The building holds 94 residential units, a garage hall, storage units and lifts, and a space in the garage hall costs 70 000zł extra.",
+      "features": [
+        { "feature": "garden", "quote": "Ogródek" },
+        { "feature": "parking", "quote": "Miejsce w hali garażowej" },
+        { "feature": "storage", "quote": "hala garażowa oraz komórki lokatorskie" },
+        { "feature": "elevator", "quote": "swobodne przemieszczanie się zapewniają windy" },
+        { "feature": "ready_to_move_in", "quote": "Mieszkanie jest gotowe do zamieszkania / wynajmu." }
+      ],
+      "price_notes": [
+        { "type": "mandatory_parking", "amount_pln": 70000, "quote": "Miejsce w hali garażowej = 70 000zł." },
+        { "type": "extra_cost", "quote": "możliwość skorzystania za dodatkową opłatą" }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68418555,
+      "summary": "A 3-room flat of 62,40 m2 in the Morena district of Gdańsk, on the 1st floor of a 4-storey block from 2012. It comprises a living room of 24,90 m2 with access to a balcony, 2 bedrooms, a kitchenette with fitted furniture and appliances, a bathroom with WC and a hall, and a storage unit of 3,70 m2 belongs to it. Heating and hot water come from the municipal network, the entrance has an intercom and the building has a quiet lift.",
+      "features": [
+        { "feature": "balcony", "quote": "z wyjściem na balkon (4,70 m2)" },
+        { "feature": "storage", "quote": "Do mieszkania przynależy ponadto komórka lokatorska (3,70 m2)." },
+        { "feature": "elevator", "quote": "Na poszczególne kondygnacje dostaniemy się dzięki cichobieżnej windzie." },
+        { "feature": "parking", "quote": "W pobliżu nieruchomości znajdziemy ogólnodostępne miejsca postojowe" }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68418634,
+      "summary": "The offer is an assignment of rights under a developer contract for a 3-room apartment of 48,76 m² on the 2nd floor of an apartment building, with a parking space in the garage hall. Handover is stated for January 2027 and 23% VAT can be deducted. The Murapol Stoczniova development is located in Młode Miasto in Gdańsk, near the revitalised Gdańsk Shipyard and the Gdańsk University of Technology campus.",
+      "features": [
+        { "feature": "parking", "quote": "z miejscem postojowym w hali garażowej" }
+      ],
+      "price_notes": [
+        { "type": "vat_note", "quote": "Możliwość odliczenia 23% podatku VAT." }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68418739,
+      "summary": "A 4-room flat of 82,30 m² in Gdańsk-Oliwa, on the 1st floor of a two-storey brick tenement house built around 1926. It contains a spacious living room with three windows, a bedroom with a balcony, two further bedrooms, a separate kitchen, a bathroom with a window and a hall, and a cellar of about 20 m² belongs to it. A garage of 16,7 m² is payable extra at 150.000 zł and a separate building of about 75 m² with a living part and a cellar at 360.000 pln, with a total price of 2.150.000 PLN.",
+      "features": [
+        { "feature": "balcony", "quote": "sypialnia z balkonem" },
+        { "feature": "parking", "quote": "przynależny garaż o powierzchni 16,7 m²" },
+        { "feature": "storage", "quote": "Do mieszkania przynależy również duża piwnica o powierzchni około 20 m²." },
+        { "feature": "ready_to_move_in", "quote": "Lokal jest gotowy do zamieszkania bez konieczności ponoszenia natychmiastowych nakładów finansowych." }
+      ],
+      "price_notes": [
+        { "type": "mandatory_parking", "amount_pln": 150000, "quote": "garaż o powierzchni 16,7 m²- dodatkowo płatny 150.000 zł." },
+        { "type": "extra_cost", "amount_pln": 360000, "quote": "dodatkowo płatny 360.000 pln." },
+        { "type": "other", "amount_pln": 2150000, "quote": "ŁĄCZNA CENA 2.150.000 PLN" }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68418792,
+      "summary": "A 2-room flat of 41,10 m² on the 5th floor of a tower block at ulica Wejhera 3 in the Żabianka district of Gdańsk. It has two separate rooms, a kitchen, a bathroom with WC and a shower cabin, a hall with fitted wardrobes and a balcony; the flat is furnished and equipped, including fitted kitchen furniture and appliances. Residents of the estate have access to general parking spaces on the basis of an identifier.",
+      "features": [
+        { "feature": "balcony", "quote": "Funkcjonalne 2-pokojowe mieszkanie z balkonem" },
+        { "feature": "parking", "quote": "ogólnodostępne miejsca parkingowe przeznaczone dla mieszkańców osiedla, na podstawie identyfikatora." },
+        { "feature": "ready_to_move_in", "quote": "Lokal jest umeblowany i wyposażony, dzięki czemu moży być gotowy do zamieszkania bez konieczności ponoszenia dodatkowych nakładów." }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419023,
+      "summary": "A flat in a new estate under construction in Gdańsk Łostowice, made up of a living room with a kitchenette of 17,42 m2, a bedroom of 10,11 m2, a bathroom of 4,44 m2, a hall of 3,76 m2 and a balcony of 6,12 m2. The next construction stage covers two low buildings with quiet lifts and a garage hall under the building containing parking spaces and storage units. The estate is also to include a recreation zone, a recreation room, roofed bicycle stands and photovoltaic panels.",
+      "features": [
+        { "feature": "balcony", "quote": "+ Balkon 6,12 m2" },
+        { "feature": "elevator", "quote": "które będą wyposażone w cichobieżne windy" },
+        { "feature": "parking", "quote": "Pod budynkiem zlokalizowana zostanie hala garażowa, w której oprócz miejsc postojowych dla samochodów znajdą się również praktyczne komórki lokatorskie." },
+        { "feature": "storage", "quote": "znajdą się również praktyczne komórki lokatorskie" }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419230,
+      "summary": "A flat of 55,15 m2 on the second floor of a low building at ul. Fredry in Gdańsk-Wrzeszcz, with 2 separate rooms containing mezzanines, a separate kitchen, a bathroom and a hall. On the same land register the flat includes a space of 46,98 m2 on level -1, formerly a cellar, now two rooms of which one has a window and which can be adapted for other uses. The building has gas heating, there is no monthly cooperative charge, a private garden lies behind the building and the roof underwent a major renovation a few years ago.",
+      "features": [
+        { "feature": "garden", "quote": "na tyłach budynku znajduje się prywatny ogród" },
+        { "feature": "ready_to_move_in", "quote": "Mieszkanie czyste, zadbane, gotowe do zamieszkania." }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419240,
+      "summary": "A 3-room flat with a large corner balcony in the Ogrody Diany development in the Osowa district of Gdańsk. The building is a low block with a lift from 2024, with tidy surroundings and a neat staircase; the flat is finished and has a bathroom and a kitchenette with many cabinets. A parking space in the garage hall and a storage unit are payable extra at 70 tys.",
+      "features": [
+        { "feature": "balcony", "quote": "mieszkanie z dużym, narożnym balkonem" },
+        { "feature": "elevator", "quote": "niski blok z windą z 2024 roku" },
+        { "feature": "parking", "quote": "miejsce postojowe w hali garażowej oraz komórka lokatorska płatne dodatkowo 70 tys" },
+        { "feature": "storage", "quote": "komórka lokatorska płatne dodatkowo 70 tys" },
+        { "feature": "ready_to_move_in", "quote": "pięknie wykończone" }
+      ],
+      "price_notes": [
+        { "type": "mandatory_parking", "amount_pln": 70000, "quote": "miejsce postojowe w hali garażowej oraz komórka lokatorska płatne dodatkowo 70 tys" }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419254,
+      "summary": "A 2-room investment apartment of 41,12 m2 in the Stoczniova development in Młode Miasto in Gdańsk. It consists of a living room with a kitchenette, a bedroom, a bathroom and a hall. The advertised price is gross with the possibility of deducting 23% VAT, and 2 storage units are offered for 23 760 PLN.",
+      "features": [
+        { "feature": "storage", "quote": "2 Komórki lokatorskie 23 760 PLN" }
+      ],
+      "price_notes": [
+        { "type": "vat_note", "quote": "CENA BRUTTO" },
+        { "type": "vat_note", "quote": "DODATKOWO ODLICZ 23% VAT-u" },
+        { "type": "extra_cost", "amount_pln": 23760, "quote": "2 Komórki lokatorskie 23 760 PLN" }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68419255,
+      "summary": "A 2-room investment apartment of 32,49 m2 in the Stoczniova development in Młode Miasto in Gdańsk. It consists of a living room with a kitchenette, a bedroom, a bathroom and a hall. The advertised price is gross with the possibility of deducting 23% VAT, and two storage units are offered for 21 880 PLN.",
+      "features": [
+        { "feature": "storage", "quote": "Dwie komórki lokatorskie 21 880 PLN" }
+      ],
+      "price_notes": [
+        { "type": "vat_note", "quote": "CENA BRUTTO" },
+        { "type": "vat_note", "quote": "DODATKOWO ODLICZ 23% VAT-u" },
+        { "type": "extra_cost", "amount_pln": 21880, "quote": "Dwie komórki lokatorskie 21 880 PLN" }
+      ],
+      "floor": null,
+      "year_built": null
+    }
+  ]
+}

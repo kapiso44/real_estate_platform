@@ -1,0 +1,174 @@
+{
+  "batch": 3,
+  "prompt_version": 1,
+  "results": [
+    {
+      "id": 68416421,
+      "summary": "A new two-room apartment offered directly by the developer in a new residential development in the southern part of Gdansk. According to the listing, ground-floor flats have private gardens while flats on upper floors have balconies and storage rooms; the buildings have photovoltaic panels, LED lighting in common areas, round-the-clock external monitoring, video intercoms, anti-burglary doors and a fibre-optic installation. The estate includes a recreation area with a private fitness room, a multi-functional sports pitch and playgrounds, a commercial and service zone under construction, and access to the centre of Gdansk and other districts.",
+      "features": [],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416442,
+      "summary": "A two-room apartment with a separate kitchen with a window, located on the first floor of a low, well-kept building in Gdansk-Srodmiescie on ul. Warzywnicza, with windows on two sides and a view of the Motlawa. The flat is furnished and renovated, ready to live in or to rent, and is currently rented short-term. It has gas heating, a low monthly rent, a cellar belonging to the flat, parking spaces under the building and a staircase entrance secured with an intercom; a service unit is located on the ground floor from the Motlawa side.",
+      "features": [
+        {
+          "feature": "ready_to_move_in",
+          "quote": "Mieszkanie urządzone, gotowe do zamieszkania bądź wynajmu, po remoncie."
+        },
+        {
+          "feature": "parking",
+          "quote": "Pod budynkiem miejsca postojowe."
+        },
+        {
+          "feature": "storage",
+          "quote": "Do mieszkania przynależy piwnica."
+        }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416515,
+      "summary": "A new four-room apartment offered directly by the developer in a new residential development in the southern part of Gdansk. According to the listing, ground-floor flats have private gardens while flats on upper floors have balconies and storage rooms; the buildings have photovoltaic panels, LED lighting in common areas, round-the-clock external monitoring, video intercoms, anti-burglary doors and a fibre-optic installation. The estate includes a recreation area with a private fitness room, a multi-functional sports pitch and playgrounds, a commercial and service zone under construction, and access to the centre of Gdansk and other districts.",
+      "features": [],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416554,
+      "summary": "A new three-room apartment offered directly by the developer in a new residential development in the southern part of Gdansk. According to the listing, ground-floor flats have private gardens while flats on upper floors have balconies and storage rooms; the buildings have photovoltaic panels, LED lighting in common areas, round-the-clock external monitoring, video intercoms, anti-burglary doors and a fibre-optic installation. The estate includes a recreation area with a private fitness room, a multi-functional sports pitch and playgrounds, a commercial and service zone under construction, and access to the centre of Gdansk and other districts.",
+      "features": [],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416641,
+      "summary": "A new two-room apartment in Gdansk sold directly by the developer, without commission and with no PCC tax, on land held in ownership and with a low monthly rent. A garage hall and a storage unit are available, and the estate offers garages, lifts, monitoring, green areas and gardens, and energy-efficient solutions. The location is close to a forest, shops, schools and kindergartens and within walking distance of a planned Pomeranian Metropolitan Railway station; these are the last apartments in the third stage of the investment and viewings can be arranged.",
+      "features": [
+        {
+          "feature": "parking",
+          "quote": "Garaże, windy, monitoring"
+        },
+        {
+          "feature": "elevator",
+          "quote": "Garaże, windy, monitoring"
+        },
+        {
+          "feature": "storage",
+          "quote": "Dostępna: Hala Garażowa i Komórka Lokatorska"
+        }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416649,
+      "summary": "A new three-room apartment in Gdansk sold directly by the developer, without commission and with no PCC tax, on land held in ownership and with a low monthly rent. A garage hall and a storage unit are available, and the estate offers garages, lifts, monitoring, green areas and gardens, and energy-efficient solutions. The location is close to a forest, shops, schools and kindergartens and within walking distance of a planned Pomeranian Metropolitan Railway station; these are the last apartments in the third stage of the investment and viewings can be arranged.",
+      "features": [
+        {
+          "feature": "parking",
+          "quote": "Garaże, windy, monitoring"
+        },
+        {
+          "feature": "elevator",
+          "quote": "Garaże, windy, monitoring"
+        },
+        {
+          "feature": "storage",
+          "quote": "Dostępna: Hala Garażowa i Komórka Lokatorska"
+        }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416666,
+      "summary": "A new three-room apartment in Gdansk sold directly by the developer, without commission and with no PCC tax, on land held in ownership and with a low monthly rent. A garage hall and a storage unit are available, and the estate offers garages, lifts, monitoring, green areas and gardens, and energy-efficient solutions. The location is close to a forest, shops, schools and kindergartens and within walking distance of a planned Pomeranian Metropolitan Railway station; these are the last apartments in the third stage of the investment and viewings can be arranged.",
+      "features": [
+        {
+          "feature": "parking",
+          "quote": "Garaże, windy, monitoring"
+        },
+        {
+          "feature": "elevator",
+          "quote": "Garaże, windy, monitoring"
+        },
+        {
+          "feature": "storage",
+          "quote": "Dostępna: Hala Garażowa i Komórka Lokatorska"
+        }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416668,
+      "summary": "A new four-room apartment in Gdansk sold directly by the developer, without commission and with no PCC tax, on land held in ownership and with a low monthly rent. A garage hall and a storage unit are available, and the estate offers garages, lifts, monitoring, green areas and gardens, and energy-efficient solutions. The location is close to a forest, shops, schools and kindergartens and within walking distance of a planned Pomeranian Metropolitan Railway station; these are the last apartments in the third stage of the investment and viewings can be arranged.",
+      "features": [
+        {
+          "feature": "parking",
+          "quote": "Garaże, windy, monitoring"
+        },
+        {
+          "feature": "elevator",
+          "quote": "Garaże, windy, monitoring"
+        },
+        {
+          "feature": "storage",
+          "quote": "Dostępna: Hala Garażowa i Komórka Lokatorska"
+        }
+      ],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416849,
+      "summary": "A three-room apartment on the fourth floor in the Zaspa district of Gdansk, fully furnished and finished to a high standard, with a balcony off the living room and dual east-west exposure. The listing states the flat requires no further outlay and is ready for immediate occupancy; the kitchen has fitted furniture made to measure and a full set of appliances, and the hall and bathroom have built-in wardrobes. The building is insulated and well kept, with a modern lift and an intercom-secured entrance, many publicly available parking spaces around the block, and places in the garage hall offered for an additional payment.",
+      "features": [
+        {
+          "feature": "balcony",
+          "quote": "balkon z pięknym widokiem"
+        },
+        {
+          "feature": "ready_to_move_in",
+          "quote": "Lokal nie wymaga żadnych nakładów finansowych - jest gotowy do natychmiastowego zamieszkania."
+        },
+        {
+          "feature": "elevator",
+          "quote": "budynku z nowoczesną windą"
+        },
+        {
+          "feature": "parking",
+          "quote": "wokół bloku znajduje się bardzo dużo ogólnodostępnych miejsc parkingowych dla mieszkańców"
+        }
+      ],
+      "price_notes": [
+        {
+          "type": "extra_cost",
+          "amount_pln": 80000,
+          "quote": "W ofercie znajdują się dwa miejsca w hali garażowej,które wymagają dopłaty 80.000zł."
+        }
+      ],
+      "floor": null,
+      "year_built": null
+    },
+    {
+      "id": 68416907,
+      "summary": "A new two-room apartment offered directly by the developer in a new residential development in the southern part of Gdansk. According to the listing, ground-floor flats have private gardens while flats on upper floors have balconies and storage rooms; the buildings have photovoltaic panels, LED lighting in common areas, round-the-clock external monitoring, video intercoms, anti-burglary doors and a fibre-optic installation. The estate includes a recreation area with a private fitness room, a multi-functional sports pitch and playgrounds, a commercial and service zone under construction, and access to the centre of Gdansk and other districts.",
+      "features": [],
+      "price_notes": [],
+      "floor": null,
+      "year_built": null
+    }
+  ]
+}

@@ -13,3 +13,8 @@ PROMPTY.md
 data/raw/otodom-offers-preview.html
 *.tsbuildinfo
 next-env.d.ts
+# working rules and the recruiter brief stay local
+CLAUDE.md
+docs/BRIEF.md
+# raw session transcript - source material for docs/REASONING.md, not a deliverable
+docs/reasoning-log.md
